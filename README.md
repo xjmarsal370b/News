@@ -1,0 +1,2 @@
+# News
+El objetivo de este proyecto es implementar una aplicación web que trata sobre visualización de noticias, donde cualquier usuario puede ver las noticias publicadas en la página web. Cualquier usuario que se registre en la aplicación web, puede crear, editar y ver sus propias noticias. El Administrador de la aplicación web, podrá añadir, modificar y eliminar las noticias creadas por los usuarios registrados.
